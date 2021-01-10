@@ -124,13 +124,14 @@
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-sluggable" />
     </include_path>
   </component>
   <component name="ProjectId" id="1miA9fLuS0C7E2fFV8xpzA5tmP1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/users" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Exceptions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,7 +178,8 @@
       <workItem from="1609965891256" duration="931000" />
       <workItem from="1609966851507" duration="15064000" />
       <workItem from="1610023212882" duration="20805000" />
-      <workItem from="1610120340748" duration="11406000" />
+      <workItem from="1610120340748" duration="18915000" />
+      <workItem from="1610225038775" duration="10692000" />
     </task>
     <servers />
   </component>

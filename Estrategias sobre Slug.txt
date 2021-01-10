@@ -1,0 +1,22 @@
+Visita PYM->visita_pym
+
+#0
+actualizar el titulo y slug sin importar nada mas.
+No es recomendable porque si el usuario utiliza nuestras url como link, y noosotro actualizamos la url,
+se perderian y el usuario nunca llegaria a su destino
+
+#1
+slug
+columna slug se define en la creacion
+*->programacion-y-mas
+
+#2
+historial-> hacer redirecciones 301 desde los slug antigos a los nuevos
+
+#3
+id->7
+title-> Programacion y mas 
+slug->  programacio-y-mas-7
+
+title actualizado -> Visita PYM
+slug-> visita-pym-7
