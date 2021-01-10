@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog-and-tweets" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -179,7 +182,7 @@
       <workItem from="1609966851507" duration="15064000" />
       <workItem from="1610023212882" duration="20805000" />
       <workItem from="1610120340748" duration="18915000" />
-      <workItem from="1610225038775" duration="10692000" />
+      <workItem from="1610225038775" duration="15041000" />
     </task>
     <servers />
   </component>
